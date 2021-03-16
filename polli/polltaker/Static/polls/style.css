@@ -1,7 +1,42 @@
-li a {
-    color: green;
+font-family: 'Syne Mono', monospace;
+
+
+* {
+
+   position: relative;
+   
+    
+    }
+
+body{
+    
+    text-align: center;
+}
+iframe {
+    left: 30px;
+
 }
 
-body {
-    background: white url('images/Moonrift-FINAL-Black.jpg') no-repeat;
+ul {
+    text-align: center;
 }
+
+h2{
+
+   text-align: center;
+}
+
+
+header{
+    text-align: center;
+    display: inline;
+
+}
+body {
+    background: white url('images/Moonrift-FINAL-Black-resized.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: bottom right;
+    left: 50px;
+}
+
